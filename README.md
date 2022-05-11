@@ -10,7 +10,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 
   To create a machine learning model using available independent varibles to understand how different variables affect the scenario and also to undersand the demand dynamics of the new market. This model can be further used to manipulate business strategies to meet the demand levels and meet the customer's expectations.
   
-## Data Dictionary
+## Data Dictionary:
 
   - instant: record index
 	- dteday : date
